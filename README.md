@@ -1,16 +1,18 @@
 # i_am_broke
 
-Challenge like i am rich app, make i am broke/poor app
+Flutter & Dart
 
-## Getting Started
+ 
+## Goal
+Just like I am Rich App/
+I'll be creating I'm Broke/Poor App.
 
-This project is a starting point for a Flutter application.
+## What i'll create
+1. Title 
+2. Image to show to situation of broke/poor
 
-A few resources to get you started if this is your first Flutter project:
+![i_am_broke-screenshot](https://github.com/user-attachments/assets/c4d12ab5-3f2b-433c-9740-29cd20d51631)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+> This is The challenge from udemy-flutter course by teacher @Angela Yu
